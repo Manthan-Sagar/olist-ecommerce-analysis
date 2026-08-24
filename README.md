@@ -1,16 +1,11 @@
 # 🌊 Deep Sales Analysis of Olist Marketplace
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)](https://github.com/manthan-sagar/olist-ecommerce-analysis/blob/main/pyproject.toml)
-[![Web Report](https://img.shields.io/badge/🌐_Web_Report-blue?logoColor=white)](https://manthan-sagar.github.io/olist-ecommerce-analysis/)
-[![Tableau](https://img.shields.io/badge/📊_Tableau_Dashboard-254E6B?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/manthan-sagar/viz/Inwork/PageSales)
-[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/manthan-sagar/deep-sales-analysis-eda-viz-rfm-nlp-geo)
-[![Presentation](https://img.shields.io/badge/Slides-Google%20Slides-red)](https://docs.google.com/presentation/d/1sOYi3MWXedIEnuSn41H8lBeZ9aGnnTi5iV-DEMbfCvc/present)
+[![Tableau](https://img.shields.io/badge/📊_Tableau_Dashboard-254E6B?logo=tableau&logoColor=white)](https://public.tableau.com/views/OlistPerformance/Sales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 [![Jupyter Notebook](https://img.shields.io/badge/-Notebook-F37626?logo=jupyter&logoColor=white)](https://github.com/manthan-sagar/olist-ecommerce-analysis/blob/main/olist_deep_dive/olist_deep_dive.ipynb)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 
 Comprehensive analysis of Brazilian e-commerce data, uncovering key insights and actionable business recommendations.
-
-**📖 For comfortable reading:** [Web version](https://manthan-sagar.github.io/olist-ecommerce-analysis/)
 
 <a id="contents"></a>
 
@@ -30,8 +25,7 @@ Comprehensive analysis of Brazilian e-commerce data, uncovering key insights and
 
 ## 🔗 Project Resources
 
-- **[Tableau Dashboard](https://public.tableau.com/app/profile/manthan-sagar/viz/Inwork/PageSales)** - Olist Performance dashboard
-- **[Presentation Slides](https://docs.google.com/presentation/d/1sOYi3MWXedIEnuSn41H8lBeZ9aGnnTi5iV-DEMbfCvc/present)** - Key findings summary  
+- **[Tableau Dashboard](https://public.tableau.com/views/OlistPerformance/Sales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** - Olist Performance dashboard
 - **[Kaggle Notebook](https://www.kaggle.com/code/manthan-sagar/deep-sales-analysis-eda-viz-rfm-nlp-geo)** - Kaggle-integrated version
 - **[Source Notebook](https://github.com/manthan-sagar/olist-ecommerce-analysis/blob/main/olist_deep_dive/olist_deep_dive.ipynb)** - Raw Jupyter notebook *(code only, no outputs)*  
 
